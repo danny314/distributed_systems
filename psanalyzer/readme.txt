@@ -2,7 +2,6 @@ EE 382N Assignment 3
 
 Authors:
 	Puneet Bansal
-	Sadaf Syed
 
 Pre-Requisites
 	1. Hadoop 1.1.2 binaries are on the path.
