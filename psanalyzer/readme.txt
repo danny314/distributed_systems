@@ -1,5 +1,3 @@
-EE 382N Assignment 3
-
 Authors:
 	Puneet Bansal
 
