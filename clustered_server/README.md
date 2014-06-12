@@ -1,0 +1,1 @@
+A clustered theater reservation system. If one server instances goes down, request is automatically routed to another instance. When the down instance comes back up, it automatically syncs data from other servers. All server instances maintain state synchronization. Supports reservation using both UDP and TCP.
