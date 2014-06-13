@@ -1,3 +1,5 @@
+A hadoop job for counting how many times given two words appear together in "Pride and Prejudice".
+
 Authors:
 	Puneet Bansal
 
