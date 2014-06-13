@@ -1,0 +1,1 @@
+A multi-threaded sudoku solver. Client can submit multiple requests. The server solves each request in a separate thread and caches the solution so that if a similar request comes in, it can instantly provide the response without resolving it.
